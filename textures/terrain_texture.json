@@ -1,0 +1,254 @@
+{
+    "resource_pack_name": "nightlights",
+    "texture_name": "atlas.terrain",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+        "nightlights:frog_black": {
+            "textures": "textures/nightlights/blocks/frog_black"
+        },
+        "nightlights:frog_blue": {
+            "textures": "textures/nightlights/blocks/frog_blue"
+        },
+        "nightlights:frog_brown": {
+            "textures": "textures/nightlights/blocks/frog_brown"
+        },
+        "nightlights:frog_cyan": {
+            "textures": "textures/nightlights/blocks/frog_cyan"
+        },
+        "nightlights:frog_gray": {
+            "textures": "textures/nightlights/blocks/frog_gray"
+        },
+        "nightlights:frog_green": {
+            "textures": "textures/nightlights/blocks/frog_green"
+        },
+        "nightlights:frog_light_blue": {
+            "textures": "textures/nightlights/blocks/frog_light_blue"
+        },
+        "nightlights:frog_light_gray": {
+            "textures": "textures/nightlights/blocks/frog_light_gray"
+        },
+        "nightlights:frog_lime": {
+            "textures": "textures/nightlights/blocks/frog_lime"
+        },
+        "nightlights:frog_magenta": {
+            "textures": "textures/nightlights/blocks/frog_magenta"
+        },
+        "nightlights:frog_orange": {
+            "textures": "textures/nightlights/blocks/frog_orange"
+        },
+        "nightlights:frog_pink": {
+            "textures": "textures/nightlights/blocks/frog_pink"
+        },
+        "nightlights:frog_purple": {
+            "textures": "textures/nightlights/blocks/frog_purple"
+        },
+        "nightlights:frog_red": {
+            "textures": "textures/nightlights/blocks/frog_red"
+        },
+        "nightlights:frog_white": {
+            "textures": "textures/nightlights/blocks/frog_white"
+        },
+        "nightlights:frog_yellow": {
+            "textures": "textures/nightlights/blocks/frog_yellow"
+        },
+        "nightlights:mushroom_black": {
+            "textures": "textures/nightlights/blocks/mushroom_black"
+        },
+        "nightlights:mushroom_blue": {
+            "textures": "textures/nightlights/blocks/mushroom_blue"
+        },
+        "nightlights:mushroom_brown": {
+            "textures": "textures/nightlights/blocks/mushroom_brown"
+        },
+        "nightlights:mushroom_cyan": {
+            "textures": "textures/nightlights/blocks/mushroom_cyan"
+        },
+        "nightlights:mushroom_gray": {
+            "textures": "textures/nightlights/blocks/mushroom_gray"
+        },
+        "nightlights:mushroom_green": {
+            "textures": "textures/nightlights/blocks/mushroom_green"
+        },
+        "nightlights:mushroom_light_blue": {
+            "textures": "textures/nightlights/blocks/mushroom_light_blue"
+        },
+        "nightlights:mushroom_light_gray": {
+            "textures": "textures/nightlights/blocks/mushroom_light_gray"
+        },
+        "nightlights:mushroom_lime": {
+            "textures": "textures/nightlights/blocks/mushroom_lime"
+        },
+        "nightlights:mushroom_magenta": {
+            "textures": "textures/nightlights/blocks/mushroom_magenta"
+        },
+        "nightlights:mushroom_orange": {
+            "textures": "textures/nightlights/blocks/mushroom_orange"
+        },
+        "nightlights:mushroom_pink": {
+            "textures": "textures/nightlights/blocks/mushroom_pink"
+        },
+        "nightlights:mushroom_purple": {
+            "textures": "textures/nightlights/blocks/mushroom_purple"
+        },
+        "nightlights:mushroom_red": {
+            "textures": "textures/nightlights/blocks/mushroom_red"
+        },
+        "nightlights:mushroom_white": {
+            "textures": "textures/nightlights/blocks/mushroom_white"
+        },
+        "nightlights:mushroom_yellow": {
+            "textures": "textures/nightlights/blocks/mushroom_yellow"
+        },
+        "nightlights:octopus_black": {
+            "textures": "textures/nightlights/blocks/octopus_black"
+        },
+        "nightlights:octopus_blue": {
+            "textures": "textures/nightlights/blocks/octopus_blue"
+        },
+        "nightlights:octopus_brown": {
+            "textures": "textures/nightlights/blocks/octopus_brown"
+        },
+        "nightlights:octopus_cyan": {
+            "textures": "textures/nightlights/blocks/octopus_cyan"
+        },
+        "nightlights:octopus_gray": {
+            "textures": "textures/nightlights/blocks/octopus_gray"
+        },
+        "nightlights:octopus_green": {
+            "textures": "textures/nightlights/blocks/octopus_green"
+        },
+        "nightlights:octopus_light_blue": {
+            "textures": "textures/nightlights/blocks/octopus_light_blue"
+        },
+        "nightlights:octopus_light_gray": {
+            "textures": "textures/nightlights/blocks/octopus_light_gray"
+        },
+        "nightlights:octopus_lime": {
+            "textures": "textures/nightlights/blocks/octopus_lime"
+        },
+        "nightlights:octopus_magenta": {
+            "textures": "textures/nightlights/blocks/octopus_magenta"
+        },
+        "nightlights:octopus_orange": {
+            "textures": "textures/nightlights/blocks/octopus_orange"
+        },
+        "nightlights:octopus_pink": {
+            "textures": "textures/nightlights/blocks/octopus_pink"
+        },
+        "nightlights:octopus_purple": {
+            "textures": "textures/nightlights/blocks/octopus_purple"
+        },
+        "nightlights:octopus_red": {
+            "textures": "textures/nightlights/blocks/octopus_red"
+        },
+        "nightlights:octopus_white": {
+            "textures": "textures/nightlights/blocks/octopus_white"
+        },
+        "nightlights:octopus_yellow": {
+            "textures": "textures/nightlights/blocks/octopus_yellow"
+        },
+        "nightlights:hanging_lights_black": {
+            "textures": "textures/nightlights/blocks/hanging_lights_black"
+        },
+        "nightlights:hanging_lights_blue": {
+            "textures": "textures/nightlights/blocks/hanging_lights_blue"
+        },
+        "nightlights:hanging_lights_brown": {
+            "textures": "textures/nightlights/blocks/hanging_lights_brown"
+        },
+        "nightlights:hanging_lights_cyan": {
+            "textures": "textures/nightlights/blocks/hanging_lights_cyan"
+        },
+        "nightlights:hanging_lights_default": {
+            "textures": "textures/nightlights/blocks/hanging_lights_default"
+        },
+        "nightlights:hanging_lights_gray": {
+            "textures": "textures/nightlights/blocks/hanging_lights_gray"
+        },
+        "nightlights:hanging_lights_green": {
+            "textures": "textures/nightlights/blocks/hanging_lights_green"
+        },
+        "nightlights:hanging_lights_light_blue": {
+            "textures": "textures/nightlights/blocks/hanging_lights_light_blue"
+        },
+        "nightlights:hanging_lights_light_gray": {
+            "textures": "textures/nightlights/blocks/hanging_lights_light_gray"
+        },
+        "nightlights:hanging_lights_light_green": {
+            "textures": "textures/nightlights/blocks/hanging_lights_light_green"
+        },
+        "nightlights:hanging_lights_magenta": {
+            "textures": "textures/nightlights/blocks/hanging_lights_magenta"
+        },
+        "nightlights:hanging_lights_orange": {
+            "textures": "textures/nightlights/blocks/hanging_lights_orange"
+        },
+        "nightlights:hanging_lights_pink": {
+            "textures": "textures/nightlights/blocks/hanging_lights_pink"
+        },
+        "nightlights:hanging_lights_purple": {
+            "textures": "textures/nightlights/blocks/hanging_lights_purple"
+        },
+        "nightlights:hanging_lights_red": {
+            "textures": "textures/nightlights/blocks/hanging_lights_red"
+        },
+        "nightlights:hanging_lights_white": {
+            "textures": "textures/nightlights/blocks/hanging_lights_white"
+        },
+        "nightlights:hanging_lights_yellow": {
+            "textures": "textures/nightlights/blocks/hanging_lights_yellow"
+        },
+        "nightlights:fairy_lights_black": {
+            "textures": "textures/nightlights/blocks/fairy_lights_black"
+        },
+        "nightlights:fairy_lights_blue": {
+            "textures": "textures/nightlights/blocks/fairy_lights_blue"
+        },
+        "nightlights:fairy_lights_brown": {
+            "textures": "textures/nightlights/blocks/fairy_lights_brown"
+        },
+        "nightlights:fairy_lights_cyan": {
+            "textures": "textures/nightlights/blocks/fairy_lights_cyan"
+        },
+        "nightlights:fairy_lights_default": {
+            "textures": "textures/nightlights/blocks/fairy_lights_default"
+        },
+        "nightlights:fairy_lights_gray": {
+            "textures": "textures/nightlights/blocks/fairy_lights_gray"
+        },
+        "nightlights:fairy_lights_green": {
+            "textures": "textures/nightlights/blocks/fairy_lights_green"
+        },
+        "nightlights:fairy_lights_light_blue": {
+            "textures": "textures/nightlights/blocks/fairy_lights_light_blue"
+        },
+        "nightlights:fairy_lights_light_gray": {
+            "textures": "textures/nightlights/blocks/fairy_lights_light_gray"
+        },
+        "nightlights:fairy_lights_light_green": {
+            "textures": "textures/nightlights/blocks/fairy_lights_light_green"
+        },
+        "nightlights:fairy_lights_magenta": {
+            "textures": "textures/nightlights/blocks/fairy_lights_magenta"
+        },
+        "nightlights:fairy_lights_orange": {
+            "textures": "textures/nightlights/blocks/fairy_lights_orange"
+        },
+        "nightlights:fairy_lights_pink": {
+            "textures": "textures/nightlights/blocks/fairy_lights_pink"
+        },
+        "nightlights:fairy_lights_purple": {
+            "textures": "textures/nightlights/blocks/fairy_lights_purple"
+        },
+        "nightlights:fairy_lights_red": {
+            "textures": "textures/nightlights/blocks/fairy_lights_red"
+        },
+        "nightlights:fairy_lights_white": {
+            "textures": "textures/nightlights/blocks/fairy_lights_white"
+        },
+        "nightlights:fairy_lights_yellow": {
+            "textures": "textures/nightlights/blocks/fairy_lights_yellow"
+        }
+    }
+}

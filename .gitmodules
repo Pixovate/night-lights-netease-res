@@ -1,0 +1,3 @@
+[submodule "textures/nightlights"]
+	path = textures/nightlights
+	url = https://github.com/Pixovate/night-lights-netease-textures.git

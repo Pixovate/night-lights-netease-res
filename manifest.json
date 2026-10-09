@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "小夜灯网易基岩版移植资源包 / Night Lights resources for NetEase Bedrock Edition.",
+        "min_engine_version": [
+            1,
+            20,
+            0
+        ],
+        "name": "Night Lights Resource Pack",
+        "uuid": "31ef8e9b-a437-45fa-a949-b60b647f1e2f",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "小夜灯网易基岩版移植资源包 / Night Lights resources for NetEase Bedrock Edition.",
+            "type": "resources",
+            "uuid": "083f68d3-4062-44c1-a231-01a35a8af074",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
